@@ -85,7 +85,6 @@
 
 ---
 
-### **Contact**
-For queries or issues, please raise an issue in the repository or contact the maintainers.
-
+### **Necessary URL & Guidelines to run the Pipeline **
+https://docs.google.com/document/d/1Dye8n9VxON_aXV4vLiQDhgUGNL6AiMhh/edit?usp=sharing&ouid=113103077976971185909&rtpof=true&sd=true
 
